@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070608729971",
+    "project_id": "badindeler",
+    "storage_bucket": "badindeler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070608729971:android:ab19624a6aa342a1e86706",
+        "android_client_info": {
+          "package_name": "nl.lenalee.bezetting_indeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070608729971-pdenlbpb0a0flckt8f0b6g6mosjkb37e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPnmU5YUuR90N0XnXgU0xL-5rzD3UywI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070608729971-pdenlbpb0a0flckt8f0b6g6mosjkb37e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
